@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Gantari:wght@100&family=Inter:wght@300&family=Open+Sans:wght@300&family=Poppins:wght@300&family=Roboto&display=swap");
+
+body {
+  font-family: "Gantari", sans-serif;
+  font-family: "Inter", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+@media screen and (max-width: 700px) {
+  .how-weather {
+    display: none;
+  }
+}
